@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Neon Headphones",
+    "category": "electronics",
+    "categoryLabel": "Electronics",
+    "price": 2999,
+    "image": "https://images.unsplash.com/photo-1518449952355-2f2b2a50e80b?q=80&w=1200&auto=format&fit=crop",
+    "description": "Bass-boosted, noise-cancelling headphones with neon glow accents."
+  },
+  {
+    "id": 2,
+    "title": "Streetwear Jacket",
+    "category": "fashion",
+    "categoryLabel": "Fashion",
+    "price": 3999,
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?q=80&w=1200&auto=format&fit=crop",
+    "description": "Weatherproof, lightweight jacket with reflective piping."
+  },
+  {
+    "id": 3,
+    "title": "Ambient Lamp",
+    "category": "home",
+    "categoryLabel": "Home",
+    "price": 1999,
+    "image": "https://images.unsplash.com/photo-1493666438817-866a91353cae?q=80&w=1200&auto=format&fit=crop",
+    "description": "Mood lamp with adjustable brightness and warm diffusion."
+  },
+  {
+    "id": 4,
+    "title": "Minimal Sneakers",
+    "category": "fashion",
+    "categoryLabel": "Fashion",
+    "price": 4999,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1200&auto=format&fit=crop",
+    "description": "Comfort-first sneakers with clean lines and premium materials."
+  },
+  {
+    "id": 5,
+    "title": "Smart Speaker",
+    "category": "electronics",
+    "categoryLabel": "Electronics",
+    "price": 3499,
+    "image": "https://images.unsplash.com/photo-1518444558341-2f28189a7a77?q=80&w=1200&auto=format&fit=crop",
+    "description": "Room-filling sound with voice control and rich bass."
+  }
+]
